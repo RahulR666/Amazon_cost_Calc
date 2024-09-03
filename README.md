@@ -67,6 +67,11 @@ Amazon Cost Calc is a web application developed to track and monitor Amazon prod
 
 Contributions are welcome! Feel free to submit a Pull Request or open an Issue to discuss potential improvements or bug fixes.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ## Contact
 
 For any inquiries, please contact [rahulrathnam666@gmail.com](mailto:rahulrathnam666@gmail.com).
